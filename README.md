@@ -20,3 +20,8 @@ A Machine Learning web application that predicts whether a bank loan will be app
 
 ## Accuracy
 ~80%
+
+## 🌐 Open Application
+
+
+https://bank-loan-prediction-1.onrender.com/
